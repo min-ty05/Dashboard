@@ -1,0 +1,25 @@
+{
+  "summary": {
+    "title": "Nhân sự theo khoa",
+    "male": 9,
+    "female": 10,
+    "total": 19
+  },
+  "departments": [
+    {
+      "name": "Ban chủ nhiệm khoa",
+      "male": 2,
+      "female": 1
+    },
+    {
+      "name": "Văn phòng khoa",
+      "male": 1,
+      "female": 3
+    },
+    {
+      "name": "Bộ môn chuyên ngành",
+      "male": 6,
+      "female": 6
+    }
+  ]
+}
