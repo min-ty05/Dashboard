@@ -1,0 +1,40 @@
+{
+  "summary": {
+    "title": "Sinh viên còn học",
+    "registered": 8500,
+    "active": 7820,
+    "dropped": 680
+  },
+  "departments": [
+    {
+      "name": "CNTT",
+      "registered": 2500,
+      "active": 2400,
+      "dropped": 100
+    },
+    {
+      "name": "Quản trị kinh doanh",
+      "registered": 1800,
+      "active": 1710,
+      "dropped": 90
+    },
+    {
+      "name": "Ngoại ngữ",
+      "registered": 1200,
+      "active": 1150,
+      "dropped": 50
+    },
+    {
+      "name": "Cơ khí & Chế tạo",
+      "registered": 1500,
+      "active": 1360,
+      "dropped": 140
+    },
+    {
+      "name": "Điện - Điện tử",
+      "registered": 1500,
+      "active": 1200,
+      "dropped": 300
+    }
+  ]
+}

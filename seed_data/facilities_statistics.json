@@ -1,0 +1,1066 @@
+{
+  "summary": {
+    "title": "Cơ sở vật chất trường học",
+    "total_quantity": 547,
+    "total_rooms": 17,
+    "total_areas": 2
+  },
+  "floors": [
+    {
+      "id": "tang_tret",
+      "name": "I. TẦNG TRỆT",
+      "rooms": [
+        {
+          "room_name": "1. HỘI TRƯỜNG",
+          "items": [
+            {
+              "name": "Bàn gỗ dài",
+              "model": "BGD",
+              "quantity": 30,
+              "unit": "cái",
+              "notes": "150x45x75"
+            },
+            {
+              "name": "Ghế gỗ",
+              "model": "GG",
+              "quantity": 15,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Ghế nhựa cam",
+              "model": "",
+              "quantity": 15,
+              "unit": "cái",
+              "notes": "Mượn của ISPACE"
+            },
+            {
+              "name": "Ghế inox nệm",
+              "model": "",
+              "quantity": 77,
+              "unit": "cái",
+              "notes": "1 cái bị hư"
+            },
+            {
+              "name": "Máy lạnh Daikin",
+              "model": "ML",
+              "quantity": 4,
+              "unit": "cái",
+              "notes": "2 HP"
+            },
+            {
+              "name": "Màn hình LED",
+              "model": "LED",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": "327x192"
+            },
+            {
+              "name": "Loa hội trường",
+              "model": "LOA",
+              "quantity": 4,
+              "unit": "VIETTAL",
+              "notes": ""
+            },
+            {
+              "name": "Mixer",
+              "model": "MIX",
+              "quantity": 1,
+              "unit": "Dynacord",
+              "notes": ""
+            },
+            {
+              "name": "Đầu thu Micro",
+              "model": "DTM",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Amply loa hội trường",
+              "model": "",
+              "quantity": 2,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Video Processor",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": "điều khiển LED"
+            },
+            {
+              "name": "Bục phát biểu",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Camera ahua",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Sân khấu + 3 bậc thềm",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": "6mx2m5"
+            },
+            {
+              "name": "Chậu cây phát tài",
+              "model": "",
+              "quantity": 4,
+              "unit": "Cái",
+              "notes": "Chậu + đĩa"
+            },
+            {
+              "name": "Chậu nước phong thủy",
+              "model": "",
+              "quantity": 1,
+              "unit": "Bộ",
+              "notes": "Chậu + Đế"
+            }
+          ]
+        },
+        {
+          "room_name": "2. PHÒNG PHT",
+          "items": [
+            {
+              "name": "Bàn kiếng",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": "1m7x1m"
+            },
+            {
+              "name": "Bàn gỗ giám đốc",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": "1m6x80x75"
+            },
+            {
+              "name": "Tủ gỗ 14 ngăn",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": "2m1x1m35"
+            },
+            {
+              "name": "Bàn làm việc",
+              "model": "",
+              "quantity": 3,
+              "unit": "cái",
+              "notes": "100x50"
+            },
+            {
+              "name": "Ghế giám đốc",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Ghế inox nệm",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Ghế chân quỳ",
+              "model": "",
+              "quantity": 3,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Máy in Canon 2990",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Máy lạnh Comfee",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Thùng rác nhỏ",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": ""
+            }
+          ]
+        },
+        {
+          "room_name": "3. PHÒNG HỌP KHU A",
+          "items": [
+            {
+              "name": "Bàn họp gỗ ghép",
+              "model": "BHG",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": "4m4x2m"
+            },
+            {
+              "name": "Ghế họp chân quỳ",
+              "model": "GHCQ",
+              "quantity": 16,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Ghế inox nệm",
+              "model": "GIN",
+              "quantity": 16,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Tranh treo tường",
+              "model": "",
+              "quantity": 12,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Bảng kính + màn chiếu di động",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Quạt Senko",
+              "model": "",
+              "quantity": 3,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Máy lạnh Daikin",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": "2 HP"
+            },
+            {
+              "name": "Bục + tượng Bác Hồ",
+              "model": "",
+              "quantity": 1,
+              "unit": "Bộ",
+              "notes": ""
+            },
+            {
+              "name": "Cờ Đảng",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Cờ Việt Nam",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Bàn trắng",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": "bàn ISPACE"
+            },
+            {
+              "name": "Bộ ly uống nước + 3 khay",
+              "model": "",
+              "quantity": 17,
+              "unit": "cái",
+              "notes": ""
+            }
+          ]
+        },
+        {
+          "room_name": "4. PHÒNG A103",
+          "items": [
+            {
+              "name": "Bàn liền ghế",
+              "model": "",
+              "quantity": 16,
+              "unit": "cái",
+              "notes": "160x40"
+            },
+            {
+              "name": "Quạt Senko",
+              "model": "",
+              "quantity": 3,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Điều hòa Daikin",
+              "model": "",
+              "quantity": 2,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Bàn giáo viên",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": "100x50"
+            },
+            {
+              "name": "Bảng kính + màn chiếu di động",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": "2m1x1m9"
+            },
+            {
+              "name": "Bàn gắn tường",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": "1m8x1m2"
+            },
+            {
+              "name": "Ghế inox nệm",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": ""
+            }
+          ]
+        },
+        {
+          "room_name": "5. PHÒNG A102",
+          "items": [
+            {
+              "name": "Bàn liền ghế",
+              "model": "",
+              "quantity": 16,
+              "unit": "cái",
+              "notes": "160x40"
+            },
+            {
+              "name": "Quạt Senko",
+              "model": "",
+              "quantity": 3,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Điều hòa Daikin",
+              "model": "",
+              "quantity": 2,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Bàn giáo viên",
+              "model": "",
+              "quantity": 2,
+              "unit": "cái",
+              "notes": "100x50"
+            },
+            {
+              "name": "Bảng kính + màn chiếu di động",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": "2m1x1m9"
+            },
+            {
+              "name": "Bàn gắn tường",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": "1m6x1m2"
+            },
+            {
+              "name": "Ghế inox nệm",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": ""
+            }
+          ]
+        },
+        {
+          "room_name": "6. PHÒNG A101",
+          "items": [
+            {
+              "name": "Bàn liền ghế",
+              "model": "",
+              "quantity": 15,
+              "unit": "cái",
+              "notes": "160x40"
+            },
+            {
+              "name": "Quạt Senko",
+              "model": "",
+              "quantity": 3,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Điều hòa Daikin",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Bàn giáo viên",
+              "model": "",
+              "quantity": 2,
+              "unit": "cái",
+              "notes": "100x50"
+            },
+            {
+              "name": "Bảng kính + màn chiếu di động",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": "2m1x1m9"
+            },
+            {
+              "name": "Bàn gắn tường",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": "1m8x1m2"
+            },
+            {
+              "name": "Ghế inox nệm",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": ""
+            }
+          ]
+        },
+        {
+          "room_name": "7. PHÒNG CHĂM SÓC SẮC ĐẸP",
+          "items": [
+            {
+              "name": "Bàn sắt",
+              "model": "",
+              "quantity": 3,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Kệ đựng dụng cụ 3 tầng",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Điều hòa Daikin",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Giường massage",
+              "model": "",
+              "quantity": 4,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Bồn gội đầu",
+              "model": "",
+              "quantity": 2,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Bàn gắn tường",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Bồn rửa tay",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": ""
+            }
+          ]
+        },
+        {
+          "room_name": "8. HÀNH LANG TRỆT",
+          "items": [
+            {
+              "name": "Router 6 râu Ruijie",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Camera ahua",
+              "model": "",
+              "quantity": 2,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Quạt Senko",
+              "model": "",
+              "quantity": 2,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Bàn trắng",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": "Ispace"
+            },
+            {
+              "name": "Tủ đọc sách",
+              "model": "",
+              "quantity": 2,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Bàn gỗ 3 chân",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Ghế dựa 4 chân gỗ",
+              "model": "",
+              "quantity": 5,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Chậu cây",
+              "model": "",
+              "quantity": 3,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Thùng rác",
+              "model": "",
+              "quantity": 2,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Bảng kính + màn chiếu di động",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": "2m1x1m9"
+            },
+            {
+              "name": "Bàn gắn tường",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": "1m6x1m2"
+            },
+            {
+              "name": "Bàn gỗ",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": "120x60"
+            },
+            {
+              "name": "Ghế chân quỳ",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Băng ghế chờ",
+              "model": "",
+              "quantity": 2,
+              "unit": "cái",
+              "notes": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lau_1",
+      "name": "II. LẦU 1",
+      "rooms": [
+        {
+          "room_name": "1. PHÒNG A201",
+          "items": [
+            {
+              "name": "Bàn liền ghế dài",
+              "model": "",
+              "quantity": 3,
+              "unit": "cái",
+              "notes": "160x40"
+            },
+            {
+              "name": "Quạt Senko",
+              "model": "",
+              "quantity": 3,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Điều hòa Daikin",
+              "model": "",
+              "quantity": 2,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Bàn giáo viên",
+              "model": "",
+              "quantity": 2,
+              "unit": "cái",
+              "notes": "100x50"
+            },
+            {
+              "name": "Ghế inox nệm",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Bàn liền ghế ngắn",
+              "model": "",
+              "quantity": 40,
+              "unit": "cái",
+              "notes": "120x40"
+            },
+            {
+              "name": "Tượng Hồ Chí Minh",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Bàn gắn tường",
+              "model": "",
+              "quantity": 2,
+              "unit": "cái",
+              "notes": "1m8x1m2"
+            },
+            {
+              "name": "Bục giảng (10 miếng ghép)",
+              "model": "",
+              "quantity": 1,
+              "unit": "bộ",
+              "notes": ""
+            }
+          ]
+        },
+        {
+          "room_name": "2. PHÒNG A202",
+          "items": [
+            {
+              "name": "Ghế gấp liền bàn",
+              "model": "",
+              "quantity": 30,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Quạt Senko",
+              "model": "",
+              "quantity": 3,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Bàn gắn tường",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": "2mx1m2"
+            }
+          ]
+        },
+        {
+          "room_name": "3. HÀNH LANG LẦU 1",
+          "items": [
+            {
+              "name": "Router 6 râu Ruijie",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Camera ahua",
+              "model": "",
+              "quantity": 2,
+              "unit": "cái",
+              "notes": ""
+            }
+          ]
+        },
+        {
+          "room_name": "4. PHÒNG VẬT LÝ TRỊ LIỆU",
+          "items": [
+            {
+              "name": "Bàn liền ghế ngắn",
+              "model": "",
+              "quantity": 8,
+              "unit": "cái",
+              "notes": "120x40"
+            },
+            {
+              "name": "Ghế trị liệu",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Xe lăn",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Tủ kinh 5 ngăn",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Tủ gỗ 18 ngăn",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Bàn giáo viên",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Ghế inox nệm",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Bàn gắn tường",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": ""
+            }
+          ]
+        },
+        {
+          "room_name": "5. PHÒNG A203",
+          "items": [
+            {
+              "name": "Ghế gấp liền bàn",
+              "model": "",
+              "quantity": 17,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Quạt Senko",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Bàn gắn tường",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": "1m6x1m2"
+            },
+            {
+              "name": "Bàn giáo viên",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": ""
+            }
+          ]
+        },
+        {
+          "room_name": "6. PHÒNG Y HỌC CỔ TRUYỀN",
+          "items": [
+            {
+              "name": "Bàn liền ghế ngắn",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": "120x40"
+            },
+            {
+              "name": "Giường",
+              "model": "",
+              "quantity": 5,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Xe lăn",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Tủ kinh 5 ngăn",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Tủ gỗ 18 ngăn",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Bàn giáo viên",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Ghế inox nệm",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Bàn gắn tường",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Điều hòa",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Tủ gỗ 12 ngăn",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Kệ gỗ 6 ngăn",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Tủ kinh inox",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": ""
+            }
+          ]
+        },
+        {
+          "room_name": "7. PHÒNG A204",
+          "items": [
+            {
+              "name": "Ghế gấp liền bàn",
+              "model": "",
+              "quantity": 18,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Quạt Senko",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Bàn gắn tường",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": "1m6x1m2"
+            },
+            {
+              "name": "Bàn giáo viên",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": ""
+            }
+          ]
+        },
+        {
+          "room_name": "8. PHÒNG BAN ĐIỀU HÀNH",
+          "items": [
+            {
+              "name": "Điều hòa Daikin",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": ""
+            }
+          ]
+        },
+        {
+          "room_name": "9. HÀNH LANG LẦU 1 (Khu vực khác)",
+          "items": [
+            {
+              "name": "Router 6 râu Ruijie",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Camera ahua",
+              "model": "",
+              "quantity": 2,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Quạt Senko",
+              "model": "",
+              "quantity": 2,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Bàn trắng",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": "Ispace"
+            },
+            {
+              "name": "Tủ đọc sách",
+              "model": "",
+              "quantity": 2,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Bàn gỗ 3 chân",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Ghế dựa 4 chân gỗ",
+              "model": "",
+              "quantity": 5,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Chậu cây",
+              "model": "",
+              "quantity": 3,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Thùng rác",
+              "model": "",
+              "quantity": 2,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Bảng kính + màn chiếu di động",
+              "model": "",
+              "quantity": 1,
+              "unit": "bộ",
+              "notes": "2m1x1m9"
+            },
+            {
+              "name": "Bàn gắn tường",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": "1m6x1m2"
+            },
+            {
+              "name": "Bàn gỗ",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": "120x60"
+            },
+            {
+              "name": "Ghế chân quỳ",
+              "model": "",
+              "quantity": 1,
+              "unit": "cái",
+              "notes": ""
+            },
+            {
+              "name": "Băng ghế chờ",
+              "model": "",
+              "quantity": 2,
+              "unit": "cái",
+              "notes": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

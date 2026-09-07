@@ -1,0 +1,15 @@
+# Dữ liệu nhạy cảm — KHÔNG commit
+data/
+__pycache__/
+*.pyc
+*.pyo
+*.db
+*.sqlite
+
+# Environment / config
+.env
+*.env
+
+# Backup files
+*.bak
+*.orig
